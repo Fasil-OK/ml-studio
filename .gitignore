@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# Storage (runtime data)
+backend/storage/uploads/
+backend/storage/datasets/
+backend/storage/checkpoints/
+backend/storage/exports/
+backend/storage/explanations/
+backend/storage/automl.db
+
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
