@@ -2,6 +2,9 @@
 
 A full-stack AutoML platform for image data — supporting **image classification**, **object detection**, and **image segmentation**. Upload your dataset, pick a model, train with real-time monitoring, evaluate results, explain predictions, and chat with an AI assistant that understands your entire project context.
 
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/a8a8a945-b539-43cb-a598-5810eb26b4ef" />
+
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
