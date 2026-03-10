@@ -1,4 +1,4 @@
-# AutoML Platform
+# ML-Studio Platform
 
 A full-stack AutoML platform for image data — supporting **image classification**, **object detection**, and **image segmentation**. Upload your dataset, pick a model, train with real-time monitoring, evaluate results, explain predictions, and chat with an AI assistant that understands your entire project context.
 
