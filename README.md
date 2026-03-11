@@ -25,6 +25,8 @@ A full-stack AutoML platform for image data — supporting **image classificatio
 - **AI Chat Assistant** — OpenAI-compatible LLM with full project context (dataset stats, training history, evaluation results, live metrics), markdown rendering, and stop button
 - **GPU/CPU Monitoring** — Real-time system resource usage and VRAM recommendations
 
+<img width="1361" height="504" alt="image" src="https://github.com/user-attachments/assets/f4fd46f1-a8e8-44a8-8ab3-829b443341e9" />
+
 ---
 
 ## Tech Stack
